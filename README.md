@@ -1,6 +1,4 @@
-# UiXperts
-
-# Project Platform
+# Project Platform - Team UiXperts
 
 # Home Page
 ![image](https://github.com/user-attachments/assets/7ed762d4-d610-452e-a669-6bf6a5f2290d)
