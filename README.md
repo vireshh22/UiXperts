@@ -1,4 +1,8 @@
-# Project Platform - Team UiXperts
+# Project Platform Using Figma 
+
+## Team UiXperts:
+- Priyanka Sundalam [priyanka8625](https://github.com/priyanka8625)
+- Viresh Hiremath [vireshh22](https://github.com/vireshh22)
 
 # Home Page
 ![image](https://github.com/user-attachments/assets/7ed762d4-d610-452e-a669-6bf6a5f2290d)
